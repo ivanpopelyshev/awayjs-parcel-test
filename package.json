@@ -1,0 +1,27 @@
+{
+  "name": "swf-ninjaaction-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@as3web/flash": "0.1.119",
+    "@awayjs/core": "0.8.8",
+    "@awayjs/graphics": "0.4.18",
+    "@awayjs/materials": "0.5.4",
+    "@awayjs/renderer": "0.10.7",
+    "@awayjs/scene": "0.12.40",
+    "@awayjs/stage": "0.10.13",
+    "@awayjs/swf-viewer": "0.3.83",
+    "@awayjs/view": "0.5.10",
+    "pixi.js": "5.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
